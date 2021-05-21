@@ -62,7 +62,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		043B410F2656CEFC00A5272E /* timer-app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "timer-app.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		043B410F2656CEFC00A5272E /* Timer App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Timer App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		043B41132656CEFD00A5272E /* timer-app WatchKit App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "timer-app WatchKit App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		043B41182656CEFE00A5272E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		043B411A2656CEFE00A5272E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -101,7 +101,7 @@
 		043B41102656CEFC00A5272E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				043B410F2656CEFC00A5272E /* timer-app.app */,
+				043B410F2656CEFC00A5272E /* Timer App.app */,
 				043B41132656CEFD00A5272E /* timer-app WatchKit App.app */,
 				043B411F2656CEFF00A5272E /* timer-app WatchKit Extension.appex */,
 			);
@@ -158,7 +158,7 @@
 			);
 			name = "timer-app";
 			productName = "timer-app";
-			productReference = 043B410F2656CEFC00A5272E /* timer-app.app */;
+			productReference = 043B410F2656CEFC00A5272E /* Timer App.app */;
 			productType = "com.apple.product-type.application.watchapp2-container";
 		};
 		043B41122656CEFD00A5272E /* timer-app WatchKit App */ = {
@@ -501,7 +501,7 @@
 				DEVELOPMENT_TEAM = RT32ZWV93X;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "au.com.bitpointx.timer-app";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Timer App";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
@@ -514,7 +514,7 @@
 				DEVELOPMENT_TEAM = RT32ZWV93X;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "au.com.bitpointx.timer-app";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Timer App";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
